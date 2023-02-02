@@ -37,9 +37,3 @@ No momento estou atuando como analista de software na Ford, onde trabalho com **
 <div>
 
 ##
- 
-<div>
- 
-  ![Snake animation](https://github.com/italoaraujooj/italoaraujooj/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
