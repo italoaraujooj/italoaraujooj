@@ -33,7 +33,7 @@ No momento estou atuando como analista de software na Ford, onde trabalho com **
 <div>
   <a href="https://github.com/huggoparcelly">
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=italoaraujooj&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huggoparcelly&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoaraujooj&layout=compact&langs_count=16&theme=dark"/>
 <div>
 
 ##
