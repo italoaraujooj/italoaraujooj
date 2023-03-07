@@ -2,8 +2,6 @@
 
 Me chamo Ítalo Ramalho. Sou de Campina Grande, Paraíba e sou Desenvolvedor de Software e estudante de Ciências da Computação na Universidade Federal de Campina Grande. 👨‍💻🚀
 
-No momento estou atuando como analista de software na Ford, onde trabalho com **Spring Boot**, **JPA**, **banco de dados relacionais SQL** e **JUnit5**, além de ser guiado pela metodologia **scrum**. 📚💻🔙
-
 <div> 
   <a href = "mailto: matheus.ramalho1354@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/italoaraujooj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
