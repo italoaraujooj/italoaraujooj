@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Me chamo Ítalo Ramalho. Sou de Campina Grande, Paraíba e sou Desenvolvedor de Software e estudante de Ciências da Computação na Universidade Federal de Campina Grande. 👨‍💻🚀
+Me chamo Ítalo Ramalho. Sou de Campina Grande, Paraíba e sou estudante de Ciências da Computação na Universidade Federal de Campina Grande. 👨‍💻🚀
 
 <div> 
   <a href = "mailto: matheus.ramalho1354@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
